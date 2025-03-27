@@ -1,3 +1,8 @@
+video de la EV2 Torres Santos
+Link: https://www.youtube.com/watch?v=tpkYgrL48ow
+
+
+
 # patroclo-store-premiun
  Pagina Web con el curso de taller de programacion Web Laravel
 
